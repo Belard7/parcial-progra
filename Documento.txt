@@ -1,4 +1,4 @@
-Primer ejercico 
+Primer ejercicio 
 
 Elegí utilizar Programación Orientada a Objetos (POO) para resolver la problemática del consultorio médico porque este paradigma es ideal para modelar sistemas que involucran múltiples entidades con propiedades y comportamientos específicos.
 
@@ -9,3 +9,19 @@ Se ajusta bien a la estructura del problema.
 Facilita la organización y comprensión del sistema.
 
 Mejora la mantenibilidad, la extensión y la escalabilidad del código.
+
+
+
+Segundo ejercicio 
+
+decidi utilizar POO
+ Este enfoque nos permite modelar claramente los componentes clave del sistema: libros, usuarios, préstamos y sanciones
+
+
+Tercer ejercicio 
+elegi poo para Este programa ya que facilitará la gestión de ventas, cálculos automáticos de totales y cambios, así como la gestión de inventario y proveedores.
+
+
+Cuarto ejercicio 
+
+Para ayudar al biólogo veterinario en la gestión de los animales del zoológico, decidi diseñar un programa en Python utilizando POO. Este programa permitirá registrar a los animales con sus características, gestionar sus ubicaciones en el zoológico, y también administrar su salud, incluyendo tratamientos, dosis y frecuencia de medicación.
