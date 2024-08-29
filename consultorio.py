@@ -39,9 +39,11 @@ class Doctor:
 # Ejemplo de uso
 secretaria = Secretaria()
 
+
 # Registrar pacientes
 secretaria.registrar_paciente("Juan Perez", "Dolor de cabeza")
 secretaria.registrar_paciente("Ana Lopez", "Dolor de espalda")
+
 
 # Asignar citas
 secretaria.asignar_cita("Juan Perez", "2024-09-01")

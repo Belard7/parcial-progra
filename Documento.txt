@@ -1,0 +1,11 @@
+Primer ejercico 
+
+Elegí utilizar Programación Orientada a Objetos (POO) para resolver la problemática del consultorio médico porque este paradigma es ideal para modelar sistemas que involucran múltiples entidades con propiedades y comportamientos específicos.
+
+decisión porque este enfoque:
+
+Se ajusta bien a la estructura del problema.
+
+Facilita la organización y comprensión del sistema.
+
+Mejora la mantenibilidad, la extensión y la escalabilidad del código.
