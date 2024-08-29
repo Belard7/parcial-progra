@@ -49,3 +49,4 @@ secretaria.asignar_cita("Ana Lopez", "2024-09-02")
 
 # Intentar registrar un paciente con una cita previa
 secretaria.registrar_paciente("Juan Perez", "Chequeo general")
+secretaria.registrar_paciente("Pedro sanchez","Dolor en un pie")
